@@ -1,0 +1,7 @@
+{
+  "title": "nbviewer-provider",
+  "subtitle": "Demo of a custom provider (and frontpage)",
+  "text": "Enter a https://mindtrove.info/some-post URL. Nothing else is supported.",
+  "show_input": true,
+  "sections": []
+}
